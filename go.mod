@@ -1,3 +1,3 @@
 module github.com/olivere/light
 
-require github.com/olivere/candle v0.1.0
+require github.com/olivere/candle v0.1.1
